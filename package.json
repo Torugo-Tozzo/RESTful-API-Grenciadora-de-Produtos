@@ -1,0 +1,23 @@
+{
+  "name": "restful-api-grenciadora-de-produtos",
+  "version": "1.0.0",
+  "description": "Uma aplicação backend para gerenciar produtos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Torugo-Tozzo/RESTful-API-Grenciadora-de-Produtos.git"
+  },
+  "author": "victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Torugo-Tozzo/RESTful-API-Grenciadora-de-Produtos/issues"
+  },
+  "homepage": "https://github.com/Torugo-Tozzo/RESTful-API-Grenciadora-de-Produtos#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase-admin": "^11.10.1"
+  }
+}
